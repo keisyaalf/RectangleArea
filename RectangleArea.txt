@@ -1,0 +1,6 @@
+Algorithm Rectangle Area
+Input length
+Input width
+area = length * width
+Output area
+End Algorithm
